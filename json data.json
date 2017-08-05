@@ -7,21 +7,21 @@
 		"dislikes" : "dogs"
 },
 {
-	"name" : "Browny"
+	"name" : "Browny",
 	"spiciec" : "dog",
 	"favFood" : {
 		"likes" : "cats",
 		"dislikes" : "tigers"
 },
 {
-	"name" : "Black"
+	"name" : "Black",
 	"spiciec" : "dog",
 	"favFood" : {
 		"likes" : "carrot",
 		"dislikes" : "potatoe"
 },
 {
-	"name" : "Charlie"
+	"name" : "Charlie",
 	"spiciec" : "turtle",
 	"favFood" : {
 		"likes" : "grass",
