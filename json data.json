@@ -14,10 +14,17 @@
 		"dislikes" : "tigers"
 },
 {
-	"name" : Black
+	"name" : "Black"
 	"spiciec" : "dog",
 	"favFood" : {
 		"likes" : "carrot",
 		"dislikes" : "potatoe"
+},
+{
+	"name" : "Charlie"
+	"spiciec" : "turtle",
+	"favFood" : {
+		"likes" : "grass",
+		"dislikes" : "meat"
 }
 ]
