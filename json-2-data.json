@@ -1,0 +1,34 @@
+[
+{
+	"name" : "Marty",
+	"spiciec" : "pig",
+	"favFood" : {
+		"likes" : "mouses",
+		"dislikes" : "dogs"
+}
+},
+{
+	"name" : "Grisha",
+	"spiciec" : "monkey",
+	"favFood" : {
+		"likes" : "cats",
+		"dislikes" : "tigers"
+}
+},
+{
+	"name" : "Rich",
+	"spiciec" : "Lion",
+	"favFood" : {
+		"likes" : "carrot",
+		"dislikes" : "potatoe"
+}
+},
+{
+	"name" : "Tom",
+	"spiciec" : "guinea-pig",
+	"favFood" : {
+		"likes" : "grass",
+		"dislikes" : "meat"
+}
+}
+]

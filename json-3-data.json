@@ -1,0 +1,26 @@
+[
+{
+	"name" : "Lilu",
+	"spiciec" : "Mosqito",
+	"favFood" : {
+		"likes" : "mouses",
+		"dislikes" : "dogs"
+}
+},
+{
+	"name" : "Nino",
+	"spiciec" : "parrot",
+	"favFood" : {
+		"likes" : "cats",
+		"dislikes" : "tigers"
+}
+},
+{
+	"name" : "Req",
+	"spiciec" : "Dove",
+	"favFood" : {
+		"likes" : "carrot",
+		"dislikes" : "potatoe"
+}
+}
+]
