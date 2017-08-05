@@ -5,6 +5,7 @@
 	"favFood" : {
 		"likes" : "mouses",
 		"dislikes" : "dogs"
+}
 },
 {
 	"name" : "Browny",
@@ -12,6 +13,7 @@
 	"favFood" : {
 		"likes" : "cats",
 		"dislikes" : "tigers"
+}
 },
 {
 	"name" : "Black",
@@ -19,6 +21,7 @@
 	"favFood" : {
 		"likes" : "carrot",
 		"dislikes" : "potatoe"
+}
 },
 {
 	"name" : "Charlie",
@@ -26,5 +29,6 @@
 	"favFood" : {
 		"likes" : "grass",
 		"dislikes" : "meat"
+}
 }
 ]
